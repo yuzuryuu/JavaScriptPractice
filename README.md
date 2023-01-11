@@ -1,1 +1,1 @@
-# JavaScriptPractice
+# 30DaysOfJavascript
